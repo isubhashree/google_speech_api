@@ -1,0 +1,37 @@
+{
+  "name": "google_speech_api",
+  "version": "1.0.0",
+  "description": "voice app using google api and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "node-twilio": "^0.1.2",
+    "twilio": "^2.9.0"
+  },
+  "engines": {
+    "node": "5.7.0",
+    "npm": "3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isubhashree/google_speech_api.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "speech",
+    "api",
+    "web",
+    "app"
+  ],
+  "author": "Subhashree Patra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isubhashree/google_speech_api/issues"
+  },
+  "homepage": "https://github.com/isubhashree/google_speech_api#readme"
+}
